@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/BogdanDolia/ops-butler/new-ops-butler/internal/models"
+	"github.com/HelixThinker/ops-butler/new-ops-butler/internal/models"
 	"go.uber.org/zap"
 	"gorm.io/driver/mysql"
 	"gorm.io/driver/postgres"
