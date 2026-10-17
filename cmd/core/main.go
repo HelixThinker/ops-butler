@@ -8,10 +8,10 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/BogdanDolia/ops-butler/new-ops-butler/internal/core"
-	"github.com/BogdanDolia/ops-butler/new-ops-butler/internal/database"
-	"github.com/BogdanDolia/ops-butler/new-ops-butler/internal/slack"
-	"github.com/BogdanDolia/ops-butler/new-ops-butler/pkg/logger"
+	"github.com/HelixThinker/ops-butler/new-ops-butler/internal/core"
+	"github.com/HelixThinker/ops-butler/new-ops-butler/internal/database"
+	"github.com/HelixThinker/ops-butler/new-ops-butler/internal/slack"
+	"github.com/HelixThinker/ops-butler/new-ops-butler/pkg/logger"
 	"go.uber.org/zap"
 )
 
